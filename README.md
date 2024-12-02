@@ -1,4 +1,4 @@
- I am Bilal, a parttime coder, full time biologist. Iam currently learning python for biological data analysis.
+ I am Bilal, a part time coder, full time biologist. Iam currently learning python for biological data analysis.
 - 
 
 <!---
